@@ -15,7 +15,7 @@ The device can communicate directly with another unit without depending on a mob
 
 ### Two Complete Walkie-Talkie Units
 
-![Walkie Talkie Pair](Images/WalkieTalkie-Pair.jpg)
+![Walkie Talkie Pair](Walkie_Talkie_pair.png)
 
 ---
 
@@ -185,14 +185,20 @@ A mobile-phone-style **T9 / multi-tap text entry system** can be implemented for
 Example:
 
 ```text
-2 → A B C
-3 → D E F
-4 → G H I
-5 → J K L
-6 → M N O
-7 → P Q R S
-8 → T U V
-9 → W X Y Z
+1 → , . ? ! 1
+2 → A B C 2
+3 → D E F 3 
+4 → G H I 4
+5 → J K L 5
+6 → M N O 6
+7 → P Q R S 7
+8 → T U V 8
+9 → W X Y Z 9
+0 → 0 and Space
+A → Message mode
+B → INBOX
+C → Scroll Up
+D → Scroll Down
 ```
 
 ---
@@ -202,15 +208,19 @@ Example:
 The OLED provides a compact graphical interface for the Walkie-Talkie.
 
 The display can show:
-![Text massage mode ](Hardware/Schematic.png)
-![Voice mode ](Hardware/Schematic.png)
+![Text massage mode ](Massage_mode.png)
+![Voice mode ](Voice_mode.jpg)
+![Inbox ](Inbox.png)
+![Keypad](Keypad.png)
+![Keypad2](Keypad2.png)
+
 
 ---
 # 🔌 Schematic Diagram
 
 The complete schematic for the project is provided below.
 
-![ESP32 Walkie Talkie Schematic](Hardware/Schematic.png)
+![ESP32 Walkie Talkie Schematic](Schematic_diagram.png)
 
 The schematic includes:
 
@@ -237,23 +247,18 @@ The PCB integrates the major electronic modules and connections into a compact a
 
 ---
 
-# 🟢 PCB 2D View – Front
+# 🟢 PCB 2D View –
 
-![PCB Front](PCB/PCB-2D-Front.png)
+![PCB_2D_Front](PCB_2D.png)
 
----
-
-# 🔵 PCB 2D View – Back
-
-![PCB Back](PCB/PCB-2D-Back.png)
 
 ---
 
 # 🔥 PCB 3D View
 
-![PCB 3D Front](PCB/PCB-3D-Front.png)
+![PCB 3D Front](Walkie_Talkie_front.png)
 
-![PCB 3D Back](PCB/PCB-3D-Back.png)
+![PCB 3D Back](Walkie_Talkie_back.png)
 
 ---
 
@@ -314,6 +319,15 @@ NextPCB provides services including:
 * Component Sourcing
 
 A huge **THANK YOU to NextPCB** for supporting this project! ❤️🔥
+
+![Walkie_Talkie](Walkie_Talkie.png)
+![Walkie_Talkie2](Walkie_Talkie2.png)
+![Walkie_Talkie3](Walkie_Talkie3.png)
+![Walkie_Talkie4](Walkie_Talkie4.png)
+![Walkie_Talkie5](Walkie_Talkie5.png)
+![Walkie_Talkie6](Walkie_Talkie6.png)
+![Walkie_Talkie7](Walkie_Talkie7.png)
+![Walkie_Talkie8](Walkie_Talkie8.png)
 
 ---
 
@@ -400,7 +414,7 @@ Planned / possible upgrades include:
 
 ## ▶️ Full Video Tutorial
 
-[![Watch the Tutorial](Images/YouTube-Thumbnail.jpg)](YOUR_YOUTUBE_VIDEO_LINK)
+[![Watch the Tutorial](Walkie_Talkie.jpg)]([https://youtu.be/tTMMYkaJCOc])
 
 **Full tutorial coming / available on ElectroSurgeon YouTube Channel.**
 
