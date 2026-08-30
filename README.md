@@ -11,7 +11,7 @@ The device can communicate directly with another unit without depending on a mob
 
 # 📸 Project Preview
 
-![ESP32 Walkie Talkie](YTThumbnailWalkieTalkie.png)
+![ESP32 Walkie Talkie](Walkie_Talkie.png)
 
 ### Two Complete Walkie-Talkie Units
 
