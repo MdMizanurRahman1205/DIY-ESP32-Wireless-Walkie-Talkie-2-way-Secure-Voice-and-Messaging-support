@@ -305,6 +305,7 @@ The PCB quality, precise fabrication, professional assembly, and overall manufac
 ### 🏭 Order Your Custom PCB
 
 👉 [NextPCB Official Website](https://www.nextpcb.com/?code=ElectroSurgeon)
+![NextPCB Logo](https://www.nextpcb.com/uploads/images/202505/07/1746603675-2518-QAgOoc.png)
 
 NextPCB provides services including:
 
@@ -320,7 +321,6 @@ NextPCB provides services including:
 
 A huge **THANK YOU to NextPCB** for supporting this project! ❤️🔥
 
-![Walkie_Talkie](Walkie_Talkie.png)
 ![Walkie_Talkie2](Walkie_Talkie2.png)
 ![Walkie_Talkie3](Walkie_Talkie3.png)
 ![Walkie_Talkie4](Walkie_Talkie4.png)
@@ -414,7 +414,7 @@ Planned / possible upgrades include:
 
 ## ▶️ Full Video Tutorial
 
-[![Watch the Tutorial](Walkie_Talkie.jpg)]([https://youtu.be/tTMMYkaJCOc])
+[![Watch the Video](https://img.youtube.com/vi/oKskIdD0tRI/maxresdefault.jpg)](https://youtu.be/oKskIdD0tRI)
 
 **Full tutorial coming / available on ElectroSurgeon YouTube Channel.**
 
