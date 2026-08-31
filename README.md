@@ -77,22 +77,20 @@ The Walkie-Talkie combines multiple communication and embedded subsystems inside
 
 # 🧰 Components Required
 
-| Component                      |    Quantity | Purchase Link                                                                 |
-| ------------------------------ | ----------: | ----------------------------------------------------------------------------- |
-| ESP32 Development Board        |           2 | [Buy ESP32](https://amzn.to/4tVb96r)                                          |
-| nRF24L01 Wireless Module       |           2 | [Buy nRF24L01](https://amzn.to/4845hQ8)                                       |
-| INMP441 I²S Digital Microphone |           2 | [INMP441 Information](https://robu.in/wp-content/uploads/2021/05/INMP441.pdf) |
-| MAX98357A I²S Audio Amplifier  |           2 | [Buy MAX98357A](https://robu.in/brand/adafruit/)                              |
-| OLED Display SSD1306           |           2 | [Buy OLED Display](https://robu.in/product-category/oled-display/)            |
-| 4×4 Matrix Keypad              |           2 | [Buy 4×4 Keypad](https://robu.in/product-category/electronic-keypads/)        |
-| Speaker                        |           2 | Add Product Link                                                              |
-| Push Buttons / PTT Button      |          2+ | Add Product Link                                                              |
-| Li-ion / Li-Po Battery         |           2 | Add Product Link                                                              |
-| Battery Charging Module        |           2 | Add Product Link                                                              |
-| Power Switch                   |           2 | Add Product Link                                                              |
-| Capacitors                     | As Required | Add Product Link                                                              |
-| Resistors                      | As Required | Add Product Link                                                              |
-| Custom PCB                     |           2 | [Order PCB from NextPCB](https://www.nextpcb.com/)                            |
+Esp32:  https://amzn.to/4vskGTW
+INMP441 mic: https://amzn.to/4vlnYs1
+MAX98357A: https://amzn.to/3SdJ8tD
+0.96'' Oled display: https://amzn.to/4w3VyCD
+4x4 keypad: https://link.amazon/B03x8EiPp
+nrf24L01 module: https://link.amazon/B0j8SdGQZ
+Rf antenna: https://link.amazon/B09ls1GMt
+Speaker(3W):  https://amzn.to/4xFsZgA
+Smd led (0805): https://link.amazon/B0fsyrHB9
+Toggle Switch: https://link.amazon/B04BFqe7g
+90' push switch: https://link.amazon/B041lkSXg
+Sliding switch: https://link.amazon/B02VlEmuU
+Battery : https://link.amazon/B01q3dqSz 
+
 
 > ⚠️ Check the exact module versions and component footprints used in the PCB before ordering.
 
