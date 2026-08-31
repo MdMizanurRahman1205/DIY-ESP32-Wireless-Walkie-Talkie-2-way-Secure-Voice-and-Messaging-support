@@ -412,7 +412,8 @@ Planned / possible upgrades include:
 
 ## ▶️ Full Video Tutorial
 
-[![Watch the Video](https://img.youtube.com/vi/oKskIdD0tRI/maxresdefault.jpg)](https://youtu.be/oKskIdD0tRI)
+[![Watch the Video](https://img.youtube.com/vi/tTMMYkaJCOc/maxresdefault.jpg)](https://youtu.be/tTMMYkaJCOc)
+
 
 **Full tutorial coming / available on ElectroSurgeon YouTube Channel.**
 
